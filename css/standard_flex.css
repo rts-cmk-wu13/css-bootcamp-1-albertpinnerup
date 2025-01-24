@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Smooch Sans", Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+	max-width: 75rem;
+	margin: 0 auto;
+}
+
+body {
+    background-color: rgb(148, 173, 195);
+	position: relative;
+}
+
+p {
+	padding-bottom: 1em;
+}
+
+/* RWD: */
+img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
