@@ -1,0 +1,50 @@
+h1 {
+    font-family: "Playwrite IN", Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 5rem;
+    color: antiquewhite;
+}
+
+.lorem__img {
+    max-width: 30rem;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.dolor__img {
+    max-width: 12.5rem;
+    margin: 0 auto;
+    margin-bottom: 5rem;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    height: inherit;
+    align-items: center;
+}
+
+nav {
+    height: 3.75rem;
+    margin-bottom: 5rem;
+}
+
+.menu__item {
+    list-style: none;
+    font-size: 1.5rem;
+    
+}
+
+.menu__links {
+    color: black;
+}
+
+.menu__item:last-of-type .menu__links {
+    color: brown;
+}
+
+.yolo {
+    position: absolute;
+    top: 10px;
+}
